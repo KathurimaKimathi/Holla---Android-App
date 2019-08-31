@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988119686561",
+    "firebase_url": "https://hollaholla-4d80d.firebaseio.com",
+    "project_id": "hollaholla-4d80d",
+    "storage_bucket": "hollaholla-4d80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988119686561:android:81b39ff27ea0793d",
+        "android_client_info": {
+          "package_name": "com.oreonent.hollaholla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988119686561-6to5p7vn9rol4s0t9l3vv281a9u36ehb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreonent.hollaholla",
+            "certificate_hash": "dc9673cac0f0603edd2d2c15bf26731b4612a8c4"
+          }
+        },
+        {
+          "client_id": "988119686561-lsnji2hqkut61v7jqapeu4oal2esta9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIleLl5Yfz7qOejbZVrhQoeBCxncq390"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988119686561-lsnji2hqkut61v7jqapeu4oal2esta9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
